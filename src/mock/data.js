@@ -48,8 +48,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'Ipfs.png',
     title: 'Decentralized File storage',
-    info: 'Still in progress: UP in 1 week',
-    info2: 'A decentralized file upload system powered by javascript,Ethereum Blockchain and IPFS',
+    info: 'A decentralized file upload system powered by javascript,Ethereum Blockchain and IPFS',
+    info2: '',
     url: '#',
     repo: '', // if no repo, the button will not show up
   },
