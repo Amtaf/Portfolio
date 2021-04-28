@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'info.png',
   paragraphOne: 'Hello I am Fatma,a software engineer,Blockchain developer,instructor and innovator based in Kenya',
-  paragraphTwo: 'I am a distributed web advocate who enjoys creating solutions on the web such as websites,web applications and anything in between.Being a distributed web and blockchain enthusiast i enjoy researching and being upto date with the latest developments in this technology.I also develop content and courses on Youtube and Udemy respectively concerning the same field in technology. ',
+  paragraphTwo: 'I am a decentralized web advocate who enjoys creating solutions on the web such as websites,web applications and anything in between.Being a decentralized web and blockchain enthusiast i enjoy researching and being upto date with the latest developments in this technology.I also develop content and courses on Youtube and Udemy respectively concerning the same field in technology. ',
   paragraphThree: 'Here are some of the technologies i have worked with: Javascript(React),IPFS,HTML,CSS,wordpress,MySQL Databases,Node JS,Hyperledger sawtooth',
   resume: 'https://github.com/Amtaf/Resume-uno/blob/main/curiculum+vitae-converted.pdf', // if no resume, the button will not show up
 };
